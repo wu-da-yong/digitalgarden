@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettelkasten/1 可以用AI帮助我们整理笔记吗？/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":"true","permalink":"/Zettelkasten/1 可以用AI帮助我们整理笔记吗？/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 编号:: 1
